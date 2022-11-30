@@ -1,0 +1,22 @@
+{
+    "text":"this is a local text",
+    "number":123455,
+    "nested-map":{
+        "text":"nested text value"
+    },
+    "list-of-map":[
+        {
+            "name":"ahmed",
+            "age":40
+        },
+        {
+            "name":"Samar",
+            "age":22
+        },
+        {
+            "name":"ali",
+            "age":10
+        }
+    ]
+
+}
